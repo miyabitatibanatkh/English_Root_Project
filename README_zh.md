@@ -69,5 +69,5 @@
 详细内容请参考以下设计文档：
 
 ```txt
-docs/sprint_001_root_search.md
+docs/Sprint001/sprint_001_root_search.md
 ```

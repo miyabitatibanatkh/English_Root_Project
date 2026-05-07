@@ -67,5 +67,5 @@ a Minimum Viable Product (MVP) for root search.
 See the following design document for details.
 
 ```txt
-docs/sprint_001_root_search.md
+docs/Sprint001/sprint_001_root_search.md
 ```

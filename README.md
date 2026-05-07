@@ -60,6 +60,6 @@
 詳細は以下の設計書を参照してください。
 
 ```txt
-docs/sprint_001_root_search.md
+docs/Sprint001/sprint_001_root_search.md
 
 
